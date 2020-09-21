@@ -1,0 +1,1 @@
+Requirements.txtNumpy == 1.17.2  PandasGenism == 3.8.1Sapcy ==2.2.3 pyLDAvisMatplotlib Nltk ==3.4.5
